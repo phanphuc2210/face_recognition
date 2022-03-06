@@ -1,0 +1,1 @@
+2.imread('tranthanh_test.jpg')
